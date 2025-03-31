@@ -15,7 +15,6 @@ This script allows you to fetch the latest cryptocurrency prices from Binance an
 4. 🔄 If you want to convert BRL to a specific currency, type `y` and provide the currency and the BRL amount.
 
 ## 💰 Available Currencies
-- USDT
 - XRP
 - SOL
 - ADA
@@ -47,7 +46,6 @@ Este script permite obter os preços das principais criptomoedas na Binance e re
 4. 🔄 Se desejar converter BRL para uma moeda específica, digite `y` e informe a moeda e o valor em BRL.
 
 ## 💰 Moedas disponíveis
-- USDT
 - XRP
 - SOL
 - ADA
